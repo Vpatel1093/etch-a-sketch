@@ -1,0 +1,11 @@
+#container {
+	clear: both;
+	margin-top: 15px;
+	height: 960px;
+	width: 960px;
+}
+
+.square {
+	float: left;
+	background:black;
+}
